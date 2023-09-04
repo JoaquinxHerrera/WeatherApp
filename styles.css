@@ -19,7 +19,7 @@ svg{
     margin-bottom: -0.5em ;
 }
 .container{
-    width : 40%;
+    width : 35%;
     padding: 2em 0;
     padding-bottom: 3em;
     margin: 10em auto;
@@ -28,6 +28,11 @@ svg{
     background-color: rgba(232, 232, 232, 0.709);
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.446);
     
+}
+
+h2{
+    color: rgb(16, 87, 180);
+    font-size: 1.7rem;
 }
 
 input{
